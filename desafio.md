@@ -64,10 +64,10 @@ Todos os códigos produzidos devem seguir as boas práticas de codificação.
 
 ## Prazo
 
-• Você tem até 7 dias corridos para a entrega, contados a partir do recebimento deste desafio. O não cumprimento deste prazo implica na desclassificação do processo seletivo.
-• A Indicium possui ferramentas avançadas de detecção de plágio e inteligência artificial. A utilização de IA implica na desclassificação do processo seletivo.
-• Envie o seu relatório dentro da sua data limite para o email: selecao.lighthouse@indicium.tech
-• O arquivo de entrega deve ser nomeado como: LH_CD_SEUNOME
+- Você tem até 7 dias corridos para a entrega, contados a partir do recebimento deste desafio. O não cumprimento deste prazo implica na desclassificação do processo seletivo.
+- A Indicium possui ferramentas avançadas de detecção de plágio e inteligência artificial. A utilização de IA implica na desclassificação do processo seletivo.
+-  Envie o seu relatório dentro da sua data limite para o email: selecao.lighthouse@indicium.tech
+-  O arquivo de entrega deve ser nomeado como: LH_CD_SEUNOME
 
 Bom trabalho!
 

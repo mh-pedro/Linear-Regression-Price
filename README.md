@@ -4,7 +4,7 @@
 
 Seja bem-vindo ao repositório de dados do Programa Lighthouse, onde vamos compartilhar os resultados do desafio de Cientista de Dados!
 
-Nossa missão é desenvolver um modelo de previsão de preços para um cliente que deseja criar uma plataforma de alugueis temporários na cidade de Nova York.
+A nossa missão é desenvolver um modelo de previsão de preços para um cliente que deseja criar uma plataforma de aluguéis temporários na cidade de Nova York.
 
 Este projeto consiste numa análise exploratória dos dados, criação de um modelo de preditivo e a predição ao final do projeto. A estrutura do repositório está organizada da seguinte forma:
 
