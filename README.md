@@ -1,8 +1,6 @@
-# Lighthouse_DS
+# Projeto de Regressão Multilinear 
  
-## Desafio de Cientista de Dados do Programa Lighthouse
-
-Seja bem-vindo ao repositório de dados do Programa Lighthouse, onde vamos compartilhar os resultados do desafio de Cientista de Dados!
+Seja bem-vindo ao repositório de dados do Programa Projeto de Regressão Multilinear, onde vamos compartilhar os resultados do desafio de Cientista de Dados!
 
 A nossa missão é desenvolver um modelo de previsão de preços para um cliente que deseja criar uma plataforma de aluguéis temporários na cidade de Nova York.
 
@@ -26,4 +24,4 @@ Para executar este projeto, basta seguir os passos abaixo:
 
 ## Contato
 
-Se vocência tiver algum problema ou sugestão para melhorias, por favor, me contate em `ircefasjp@gmail.com`. Obrigado!
+Se você tiver algum problema ou sugestão para melhorias, por favor, me contate em `ircefasjp@gmail.com`. Obrigado!
